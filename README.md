@@ -60,7 +60,7 @@ console.log(Utils.validateEmail('invalid-email'));    // Outputs: false
 Download the code from the repository:
 
 ```bash
-git clone [https://github.com/your-username/utility-library.git](https://github.com/chikolokoy08/utility.git)
+git clone https://github.com/chikolokoy08/utility.git
 ```
 ### Step 2: Install Dependencies
 Navigate to the project folder and install dependencies if necessary. This is useful if the library is extended in the future.
