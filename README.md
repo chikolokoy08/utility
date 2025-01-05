@@ -82,5 +82,3 @@ const Utils = require('./path-to-utility-library/index');
 import Utils from './path-to-utility-library/index.js';
 ```
 
-## Usage Examples
-
